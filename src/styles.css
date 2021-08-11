@@ -1,0 +1,21 @@
+.title{
+    -fx-color:white;
+}
+
+.pane{
+    -fx-background-color: #2E3880;
+}
+
+.cryptoPrice {
+    -fx-color: #cccccc;
+}
+
+
+.cryptoSelect {
+    -fx-background-color: #273172;
+    -fx-color: #6C7579;
+}
+
+.graph-label {
+    -fx-color: white;
+}
